@@ -7,6 +7,6 @@ I'm currently looking for an internship to apply my skills, learn from real-worl
 Feel free to check out my repositories or reach out if you'd like to collaborate!
 
 <p align="center">
-  <img alt="SDC-M Github Stats" src="https://github-readme-stats.vercel.app/api?username=SDC-M&show_icons=true&hide_border=true&theme=dracula&hide=issues&hide_rank=true&custom_title='SDC-M Stats'" />
+  <img alt="SDC-M Github Stats" src="https://github-readme-stats.vercel.app/api?username=SDC-M&show_icons=true&hide_border=true&theme=dracula&hide=issues&hide_rank=true" />
   <img alt="SDC-M Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDC-M&show_icons=true&&hide_border=true&theme=dracula&layout=compact&include_all_commits=true" />
 </p>
